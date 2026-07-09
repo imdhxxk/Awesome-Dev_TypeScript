@@ -1,3 +1,2 @@
-export const hello = () => {
-    console.log("Hello");
-};
+const a = 1;
+export {};
