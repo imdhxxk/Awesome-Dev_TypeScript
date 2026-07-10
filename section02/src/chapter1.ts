@@ -37,7 +37,7 @@ let numA: 10 = 10; // numA는 10이라는 값만 가질 수 있음
 
 let strA: "Hello" = "Hello"; // strA는 "Hello"라는 값만 가질 수 있음
 
-let boolA: true = false; // boolA는 true라는 값만 가질 수 있음
+// let boolA: true = false; // boolA는 true라는 값만 가질 수 있음
 
 
 // let numA:number = null; // 컴파일러 옵션 strictNullChecks를 false로 설정하면 null과 undefined를 다른 타입에 할당할 수 있음 
