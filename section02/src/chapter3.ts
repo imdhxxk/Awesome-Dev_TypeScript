@@ -32,4 +32,4 @@ let config: {
     apiKey:"MY API KEY",
 }
 
-config.apiKey = "hacked"; // 객체의 프로퍼티를 바꿀 수 있음  readonly를 붙이면 객체의 프로퍼티를 바꿀 수 없음. readonly는 읽기 전용 속성을 나타내며, 해당 속성은 객체가 생성된 후에는 변경할 수 없음을 의미함.
+// config.apiKey = "hacked"; // 객체의 프로퍼티를 바꿀 수 있음  readonly를 붙이면 객체의 프로퍼티를 바꿀 수 없음. readonly는 읽기 전용 속성을 나타내며, 해당 속성은 객체가 생성된 후에는 변경할 수 없음을 의미함.
