@@ -19,7 +19,7 @@ function returnFirstValue<T>(data: [T, ...unknown[]]){
 let num = returnFirstValue([0, 1, 2]);
 // 0
 
-let str = returnFirstValue([1,"hello", "mynameis"])
+let str = returnFirstValue(["hello", "mynameis"])
 // hello
 
 /**
