@@ -32,6 +32,6 @@ type Tup0 = Tup[0]; // number
 type Tup1 = Tup[1]; // string
 type Tup2 = Tup[2]; // boolean
 
-type Tup3 = Tup[3];
+// type Tup3 = Tup[3];
 
 type TupNum = Tup[number]; // number | string | boolean
