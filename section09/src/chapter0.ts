@@ -1,5 +1,5 @@
 /**
- * 조건ㄴ부 타입
+ * 조건부 타입
  */
 
 type A = number extends string ? string : number;
@@ -38,7 +38,7 @@ function removeSpaces(text : any){
 }
 
 let result = removeSpaces("hi im winterlood");
-
+console.log(result);
 result.toUpperCase();
 
 let result2 = removeSpaces(undefined);
